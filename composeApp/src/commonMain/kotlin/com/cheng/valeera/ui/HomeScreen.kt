@@ -50,8 +50,6 @@ fun HomeScreen() {
 @Composable
 private fun NesStyleMainMenu(
 ) {
-
-    getPlatform()
     Column(
         Modifier.sizeIn(
             minHeight = 200.dp,
@@ -61,7 +59,6 @@ private fun NesStyleMainMenu(
         NesStyleMenuText("01. WHEEL OF NAMES")
         NesStyleMenuText("02. ROSTER GENERATOR FOR TOASTMASTERS")
         NesStyleMenuText("03. SPEAKING ORDER FOR TOASTMASTERS")
-
     }
 }
 
