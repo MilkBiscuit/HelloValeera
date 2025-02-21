@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Hello Valeera</string>
+
+    <!-- Common -->
+    <string name="set">SET</string>
+    <string name="dismiss">DISMISS</string>
+    <string name="done">DONE</string>
+    <string name="remove">Remove</string>
+    <string name="add">Add</string>
+    <string name="content_desc_app_icon">App icon</string>
+    <string name="content_desc_drop_down">Dropdown</string>
+
+    <!-- Top App Bar -->
+    <string name="content_desc_back">Back</string>
+    <string name="content_desc_about">About</string>
+    <string name="content_desc_close">Close</string>
+
+</resources>
